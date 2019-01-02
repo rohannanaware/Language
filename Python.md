@@ -18,3 +18,5 @@ Need based links
 - [Delete a variable/object](https://stackoverflow.com/questions/26545051/is-there-a-way-to-delete-created-variables-functions-etc-from-the-memory-of-th?rq=1)
 - [Work on a huge csv](https://pythondata.com/working-large-csv-files-python/)
 - [Merge dfs - search for pd.merge](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+- [Cross tab](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.crosstab.html)
+- 
