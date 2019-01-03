@@ -22,3 +22,5 @@ Need based links
 - [Change column names in panddas](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
 - [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html)
 - [Change column datatype](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.astype.html)
+- [Delete an object](https://www.quora.com/How-do-I-delete-a-object-in-Python)
+
