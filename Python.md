@@ -23,4 +23,4 @@ Need based links
 - [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html)
 - [Change column datatype](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.astype.html)
 - [Delete an object](https://www.quora.com/How-do-I-delete-a-object-in-Python)
-
+- %who - give a list of object in Python environment
