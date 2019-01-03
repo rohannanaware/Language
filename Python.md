@@ -17,10 +17,10 @@ Need based links
 - [Drop duplicates by column](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/) | [Drop duplicates function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.drop_duplicates.html)
 - [Delete a variable/object](https://stackoverflow.com/questions/26545051/is-there-a-way-to-delete-created-variables-functions-etc-from-the-memory-of-th?rq=1)
 - [Work on a huge csv](https://pythondata.com/working-large-csv-files-python/)
-- [Merge dfs - search for pd.merge](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+- [Merge/Join dfs - search for pd.merge](https://pandas.pydata.org/pandas-docs/stable/merging.html)
 - [Cross tab](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.crosstab.html)
 - [Change column names in panddas](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
 - [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html)
 - [Change column datatype](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.astype.html)
 - [Delete an object](https://www.quora.com/How-do-I-delete-a-object-in-Python)
-- %who - give a list of object in Python environment
+- %who - gives a list of objects in Python environment
