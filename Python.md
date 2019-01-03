@@ -20,3 +20,4 @@ Need based links
 - [Merge dfs - search for pd.merge](https://pandas.pydata.org/pandas-docs/stable/merging.html)
 - [Cross tab](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.crosstab.html)
 - [Change column names in panddas](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
+- [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html)
