@@ -18,7 +18,7 @@ Need based links
 - [Delete a variable/object](https://stackoverflow.com/questions/26545051/is-there-a-way-to-delete-created-variables-functions-etc-from-the-memory-of-th?rq=1)
 - [Work on a huge csv](https://pythondata.com/working-large-csv-files-python/)
 - [Merge/Join dfs - search for pd.merge](https://pandas.pydata.org/pandas-docs/stable/merging.html)
-- [Cross tab](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.crosstab.html)
+- [Cross tab | Pivot | Group on multiple columns](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.crosstab.html)
 - [Change column names in panddas](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
 - [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html)
 - [Change column datatype](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.astype.html)
