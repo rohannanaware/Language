@@ -24,3 +24,4 @@ Need based links
 - [Change column datatype](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.astype.html)
 - [Delete an object](https://www.quora.com/How-do-I-delete-a-object-in-Python)
 - %who - gives a list of objects in Python environment
+- [Sample | Sampling data](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sample.html)
