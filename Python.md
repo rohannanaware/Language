@@ -25,3 +25,4 @@ Need based links
 - [Delete an object](https://www.quora.com/How-do-I-delete-a-object-in-Python)
 - %who - gives a list of objects in Python environment
 - [Sample | Sampling data](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sample.html)
+- [Repeat rows by value in column](https://stackoverflow.com/questions/47336704/python-pandas-how-to-repeat-rows-based-in-column-value)
