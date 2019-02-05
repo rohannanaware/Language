@@ -1,3 +1,5 @@
+- [data.table merge by multiple columns](https://stackoverflow.com/questions/30370879/data-table-merge-by-multiple-columns)
+
 # R reference codes
 - Regular expressions
 
