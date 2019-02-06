@@ -1,0 +1,1 @@
+- [Is it possible to get the number of rows in a CSV file without opening it?](https://stackoverflow.com/questions/32913151/is-it-possible-to-get-the-number-of-rows-in-a-csv-file-without-opening-it/32913255)
