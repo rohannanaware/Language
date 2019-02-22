@@ -1,4 +1,5 @@
 - [data.table merge by multiple columns](https://stackoverflow.com/questions/30370879/data-table-merge-by-multiple-columns)
+- [Order by using dplyr](https://stackoverflow.com/questions/47144143/dplyr-arrange-by-reverse-alphabetical-order)
 
 # R reference codes
 - Regular expressions
