@@ -1,5 +1,6 @@
 - [data.table merge by multiple columns](https://stackoverflow.com/questions/30370879/data-table-merge-by-multiple-columns)
 - [Order by using dplyr](https://stackoverflow.com/questions/47144143/dplyr-arrange-by-reverse-alphabetical-order)
+- [Package installation error - unable to move temporary installation](https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation)
 
 # R reference codes
 - Regular expressions
