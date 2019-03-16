@@ -4,6 +4,7 @@ Need based links
 - [Order by using dplyr](https://stackoverflow.com/questions/47144143/dplyr-arrange-by-reverse-alphabetical-order)
 - [Package installation error - unable to move temporary installation](https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation)
 - [Edit labels in ggplot2 boxplot](https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2)
+- [Cut column by quantiles | create partition](https://stackoverflow.com/questions/4126326/how-to-quickly-form-groups-quartiles-deciles-etc-by-ordering-columns-in-a)
 # R reference codes
 - Regular expressions
 
