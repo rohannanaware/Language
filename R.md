@@ -5,6 +5,7 @@ Need based links
 - [Package installation error - unable to move temporary installation](https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation)
 - [Edit labels in ggplot2 boxplot](https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2)
 - [Cut column by quantiles | create partition](https://stackoverflow.com/questions/4126326/how-to-quickly-form-groups-quartiles-deciles-etc-by-ordering-columns-in-a)
+  - [working version of the code](#cut-column-by-quantiles)
 # R reference codes
 - Regular expressions
 
@@ -181,4 +182,13 @@ df$new_col <- substr(df$col,
   mapply()
 }#Pending
 
+```
+
+## Cut column by quantiles
+
+```R
+profiler_variance_data <- within(profiler_variance_data,
+                                 quantile_ <- as.integer(cut(shipment_captured_weight,
+                                                             quantile(shipment_captured_weight,probs = seq(0,1,0.1)),
+                                                             include.lowest = T)))
 ```
