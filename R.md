@@ -10,6 +10,7 @@ Need based links
 - [Exclude, skip last line in fread]()
   - [working version of the code](#exclude-last-line)
 - [Add secondary axis in ggplot](https://rpubs.com/MarkusLoew/226759)
+- [cumsum | cumulative percentage using dplyr](#cumsum)
   
 # R reference codes
 - Regular expressions
@@ -204,4 +205,20 @@ profiler_variance_data <- fread('findstr /V /C:"END OF FILE" profiler_variance_d
                                 header = T,
                                 stringsAsFactors = F,
                                 na.strings = c("NULL","","NA"))
+```
+## cumsum
+
+```R
+input_data_wfld %>%
+  group_by(piq) %>%
+  summarise(pcle05 = quantile(p2pc_minutes,probs=0.05),
+            pcle25 = quantile(p2pc_minutes,probs=0.25),
+            pcle50 = quantile(p2pc_minutes,probs=0.50),
+            pcle75 = quantile(p2pc_minutes,probs=0.75),
+            pcle95 = quantile(p2pc_minutes,probs=0.95),
+            sq = sum(reservation_quantity),
+            sq_cumsum = cumsum(sq)) %>%
+  arrange(piq) %>%
+  mutate(sq_cumsum = cumsum(sq)/sum(sq)) %>%
+  View()
 ```
