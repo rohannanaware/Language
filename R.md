@@ -11,7 +11,8 @@ Need based links
   - [working version of the code](#exclude-last-line)
 - [Add secondary axis in ggplot](https://rpubs.com/MarkusLoew/226759)
 - [cumsum | cumulative percentage using dplyr](#cumsum)
-- [Select helpers](https://www.rdocumentation.org/packages/tidyselect/versions/0.2.5/topics/select_helpers)
+- [Select in dplyr](https://www.rdocumentation.org/packages/tidyselect/versions/0.2.5/topics/select_helpers)
+- [Filter a data.table by column names](https://stackoverflow.com/questions/32184252/how-to-select-columns-in-data-table-using-a-character-vector-of-certain-column-n)
   
 # R reference codes
 - Regular expressions
