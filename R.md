@@ -11,6 +11,7 @@ Need based links
   - [working version of the code](#exclude-last-line)
 - [Add secondary axis in ggplot](https://rpubs.com/MarkusLoew/226759)
 - [cumsum | cumulative percentage using dplyr](#cumsum)
+- [Select helpers](https://www.rdocumentation.org/packages/tidyselect/versions/0.2.5/topics/select_helpers)
   
 # R reference codes
 - Regular expressions
