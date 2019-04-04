@@ -27,3 +27,4 @@ Need based links
 - [Sample | Sampling data](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sample.html)
 - [Repeat rows by value in column](https://stackoverflow.com/questions/47336704/python-pandas-how-to-repeat-rows-based-in-column-value)
 - [Read all but last line of CSV file in pandas](https://stackoverflow.com/questions/33689694/read-all-but-last-line-of-csv-file-in-pandas); [Dealing with EoF issue](https://www.shanelynn.ie/pandas-csv-error-error-tokenizing-data-c-error-eof-inside-string-starting-at-line/)
+- [ggplot for python](http://ggplot.yhathq.com/)
