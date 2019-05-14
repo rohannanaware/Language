@@ -28,3 +28,5 @@ Need based links
 - [Repeat rows by value in column](https://stackoverflow.com/questions/47336704/python-pandas-how-to-repeat-rows-based-in-column-value)
 - [Read all but last line of CSV file in pandas](https://stackoverflow.com/questions/33689694/read-all-but-last-line-of-csv-file-in-pandas); [Dealing with EoF issue](https://www.shanelynn.ie/pandas-csv-error-error-tokenizing-data-c-error-eof-inside-string-starting-at-line/)
 - [ggplot for python](http://ggplot.yhathq.com/)
+- [aggregate on multiple columns](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html)
+- [Multiple aggregations of the same column using pandas GroupBy.agg()](https://stackoverflow.com/questions/12589481/multiple-aggregations-of-the-same-column-using-pandas-groupby-agg)
