@@ -15,7 +15,7 @@ Need based links
 - [Filter a data.table by column names](https://stackoverflow.com/questions/32184252/how-to-select-columns-in-data-table-using-a-character-vector-of-certain-column-n)
 - [Filter out columns by datatype](https://stackoverflow.com/questions/27289410/use-dplyr-to-filter-out-columns-containing-characters)
 - [Add 95 99 percentile in ggplot boxplot](https://stackoverflow.com/questions/35445201/ggplot-boxplot-with-fill-and-standard-errors)
-- [Deleting rows that are duplicated in one column based on the conditions of another column](https://stackoverflow.com/questions/24011246/deleting-rows-that-are-duplicated-in-one-column-based-on-the-conditions-of-anoth)
+- [Remove rows with duplicates in one column based on condition in another column](https://stackoverflow.com/questions/24011246/deleting-rows-that-are-duplicated-in-one-column-based-on-the-conditions-of-anoth)
   
 # R reference codes
 - Regular expressions
