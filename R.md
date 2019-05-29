@@ -16,7 +16,8 @@ Need based links
 - [Filter out columns by datatype](https://stackoverflow.com/questions/27289410/use-dplyr-to-filter-out-columns-containing-characters)
 - [Add 95 99 percentile in ggplot boxplot](https://stackoverflow.com/questions/35445201/ggplot-boxplot-with-fill-and-standard-errors)
 - [Remove rows with duplicates in one column based on condition in another column](https://stackoverflow.com/questions/24011246/deleting-rows-that-are-duplicated-in-one-column-based-on-the-conditions-of-anoth)
-  
+- [Datetime conversion and difference in R](https://stackoverflow.com/questions/12611361/r-find-time-difference-in-seconds-for-yyyy-mm-dd-hhmmss-mmm-format)
+
 # R reference codes
 - Regular expressions
 
