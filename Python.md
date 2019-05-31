@@ -30,3 +30,4 @@ Need based links
 - [ggplot for python](http://ggplot.yhathq.com/)
 - [aggregate on multiple columns](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html)
 - [Multiple aggregations of the same column using pandas GroupBy.agg()](https://stackoverflow.com/questions/12589481/multiple-aggregations-of-the-same-column-using-pandas-groupby-agg)
+- [Lambda in assign - refer you can create multiple columns within the same assign where one of the columns depends on another one defined within the same assign](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.assign.html)
