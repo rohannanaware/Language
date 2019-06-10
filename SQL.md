@@ -1,1 +1,2 @@
 - [Percentile without using partition by](https://stackoverflow.com/questions/49368902/sql-server-percentile-disc-for-column-median-without-partitioning)
+- [Get date difference in minutes using Hive](https://stackoverflow.com/questions/33593080/how-to-get-date-difference-in-minutes-using-hive)
