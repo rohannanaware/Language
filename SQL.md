@@ -1,0 +1,1 @@
+- [Percentile without using partition by](https://stackoverflow.com/questions/49368902/sql-server-percentile-disc-for-column-median-without-partitioning)
