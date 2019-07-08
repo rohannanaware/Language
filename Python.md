@@ -1,6 +1,6 @@
 Need based links
 
-- [Extract .zip files](https://thispointer.com/python-how-to-unzip-a-file-extract-single-multiple-or-all-files-from-a-zip-archive/)
+- [Extract .zip files](https://thispointer.com/python-how-to-unzip-a-file-extract-single-multiple-or-all-files-from-a-zip-archive/) | [Unzip .gz files](https://stackoverflow.com/questions/31028815/how-to-unzip-gz-file-using-python)
 - [Set index as column | Reset index](https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-dataframe-into-a-column)
 - [ggplot in python](http://ggplot.yhathq.com/)
 - [Get list from pandas DataFrame column headers](https://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
