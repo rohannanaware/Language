@@ -1,5 +1,6 @@
 Need based links
 
+- [Create time buckets | Round date time](https://stackoverflow.com/questions/23966152/how-to-create-a-group-id-based-on-5-minutes-interval-in-pandas-timeseries) | ()[]
 - [Open notebooks in C drive jupyter | How to change the Jupyter start-up folder](https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder)
 - [Extract .zip files](https://thispointer.com/python-how-to-unzip-a-file-extract-single-multiple-or-all-files-from-a-zip-archive/) | [Unzip .gz files](https://stackoverflow.com/questions/31028815/how-to-unzip-gz-file-using-python)
 - [Set index as column | Reset index](https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-dataframe-into-a-column)
