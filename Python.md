@@ -25,7 +25,7 @@ Need based links
 - [Merge/Join dfs - search for pd.merge](https://pandas.pydata.org/pandas-docs/stable/merging.html)
 - [Cross tab | Pivot | Group on multiple columns](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.crosstab.html)
 - [Change column names in panddas](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
-- [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html)
+- [Drop rows with NAs](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html) | [Drop rows with NAs](https://stackoverflow.com/questions/13413590/how-to-drop-rows-of-pandas-dataframe-whose-value-in-a-certain-column-is-nan)
 - [Change column datatype](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.astype.html)
 - [Delete an object](https://www.quora.com/How-do-I-delete-a-object-in-Python)
 - %who - gives a list of objects in Python environment
