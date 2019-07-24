@@ -1,5 +1,6 @@
 Need based links
 
+- [Convert string to date in R](https://ampersandacademy.com/tutorials/r-programming/how-to-convert-string-to-date-in-r-programming-using-as-date-function)
 - [data.table merge by multiple columns](https://stackoverflow.com/questions/30370879/data-table-merge-by-multiple-columns)
 - [Faster joins in data.table](https://stackoverflow.com/questions/34598139/left-join-using-data-table)
 - [Order by using dplyr](https://stackoverflow.com/questions/47144143/dplyr-arrange-by-reverse-alphabetical-order)
