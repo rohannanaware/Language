@@ -1,5 +1,7 @@
 Need based links
 
+- [Sort values](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html)
+- [Conditional sum | Sum case when](https://stackoverflow.com/questions/17266129/python-pandas-conditional-sum-with-groupby) | [Apply multiple functions to multiple groupby columns](https://stackoverflow.com/questions/14529838/apply-multiple-functions-to-multiple-groupby-columns)
 - [Merge on multiple columns](https://stackoverflow.com/questions/41815079/pandas-merge-join-two-data-frames-on-multiple-columns)
 - [Extract hour of day from timestamp](https://stackoverflow.com/questions/25129144/pandas-return-hour-from-datetime-column-directly)
 - [Extract date and time from timestamp](https://stackoverflow.com/questions/39662149/pandas-extract-date-and-time-from-timestamp)
