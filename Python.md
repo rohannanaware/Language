@@ -1,5 +1,6 @@
 Need based links
 
+- [How to calculate the time interval | time difference between two time strings](https://stackoverflow.com/questions/3096953/how-to-calculate-the-time-interval-between-two-time-strings)
 - [Sort values](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html)
 - [Conditional sum | Sum case when](https://stackoverflow.com/questions/17266129/python-pandas-conditional-sum-with-groupby) | [Apply multiple functions to multiple groupby columns](https://stackoverflow.com/questions/14529838/apply-multiple-functions-to-multiple-groupby-columns)
 - [Merge on multiple columns](https://stackoverflow.com/questions/41815079/pandas-merge-join-two-data-frames-on-multiple-columns)
