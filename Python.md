@@ -1,6 +1,6 @@
 Need based links
 
-- []()
+- [Delete all enviroment variables](https://stackoverflow.com/questions/3543833/how-do-i-clear-all-variables-in-the-middle-of-a-python-script)
 - [Python break, continue, pass within a loop](https://www.tutorialspoint.com/python/python_loop_control.htm)
 - [Python datetime guide](https://www.journaldev.com/23365/python-string-to-datetime-strptime)
 - [How to calculate the time interval | time difference between two time strings](https://stackoverflow.com/questions/3096953/how-to-calculate-the-time-interval-between-two-time-strings)
