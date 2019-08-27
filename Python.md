@@ -1,5 +1,6 @@
 Need based links
 
+- [Iterate through a range of dates/ Print the dates between two dates](https://stackoverflow.com/questions/1060279/iterating-through-a-range-of-dates-in-python)
 - [Add/substract time using timedelta](https://stackoverflow.com/questions/43192610/add-15-minutes-to-current-timestamp-using-timedelta/43192718#43192718)
 - [Delete all enviroment variables](https://stackoverflow.com/questions/3543833/how-do-i-clear-all-variables-in-the-middle-of-a-python-script)
 - [Python break, continue, pass within a loop](https://www.tutorialspoint.com/python/python_loop_control.htm)
