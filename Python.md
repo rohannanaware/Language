@@ -1,4 +1,5 @@
 Need based links
+- [Convert date time to string](https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/)
 - [Applying multiple functions to columns in groups
  | group by agg](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 - [check if a variable by particular name is present in Python](https://stackoverflow.com/questions/843277/how-do-i-check-if-a-variable-exists)
