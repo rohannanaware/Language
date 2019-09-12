@@ -1,5 +1,6 @@
 Need based links
 
+- [calculating percentiles for multiple columns in R](https://stackoverflow.com/questions/35913705/calculating-percentiles-for-multiple-columns-in-r)
 - [Select unique values with 'select' function in 'dplyr' library](https://stackoverflow.com/questions/25571547/select-unique-values-with-select-function-in-dplyr-library)
 - [Create sequence in for loop](https://stackoverflow.com/questions/11454333/r-numbers-from-1-to-100)
 - [Convert string to date in R](https://ampersandacademy.com/tutorials/r-programming/how-to-convert-string-to-date-in-r-programming-using-as-date-function)
