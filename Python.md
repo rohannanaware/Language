@@ -1,4 +1,5 @@
 Need based links
+- [Calculate Pandas DataFrame Time Difference Between Two Columns in Hours and Minutes](https://stackoverflow.com/questions/22923775/calculate-pandas-dataframe-time-difference-between-two-columns-in-hours-and-minu)
 - [Convert date time to string](https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/)
 - [Applying multiple functions to columns in groups
  | group by agg](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
