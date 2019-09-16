@@ -1,4 +1,5 @@
 Need based links
+- [Combine Date and Time columns using python pandas](https://stackoverflow.com/questions/17978092/combine-date-and-time-columns-using-python-pandas)
 - [Calculate Pandas DataFrame Time Difference Between Two Columns in Hours and Minutes](https://stackoverflow.com/questions/22923775/calculate-pandas-dataframe-time-difference-between-two-columns-in-hours-and-minu)
 - [Convert date time to string](https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/)
 - [Applying multiple functions to columns in groups
