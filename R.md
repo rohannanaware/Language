@@ -1,5 +1,6 @@
 Need based links
 
+- [How do I use functions in one R package masked by another package?](https://stackoverflow.com/questions/9337716/how-do-i-use-functions-in-one-r-package-masked-by-another-package)
 - [calculating percentiles for multiple columns in R](https://stackoverflow.com/questions/35913705/calculating-percentiles-for-multiple-columns-in-r)
 - [Select unique values with 'select' function in 'dplyr' library](https://stackoverflow.com/questions/25571547/select-unique-values-with-select-function-in-dplyr-library)
 - [Create sequence in for loop](https://stackoverflow.com/questions/11454333/r-numbers-from-1-to-100)
