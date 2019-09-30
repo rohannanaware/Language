@@ -1,4 +1,5 @@
 Need based links
+- [Round datetime column to nearest quarter hour?](https://stackoverflow.com/questions/32344533/how-do-i-round-datetime-column-to-nearest-quarter-hour)
 - [Combine Date and Time columns using python pandas](https://stackoverflow.com/questions/17978092/combine-date-and-time-columns-using-python-pandas)
 ```python
 df.loc[:,'Date'] = pd.to_datetime(df.Date.astype(str)+' '+df.Time.astype(str))
