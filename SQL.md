@@ -1,3 +1,4 @@
+- [Cast string to date](https://stackoverflow.com/questions/32475465/hive-cast-string-to-date-dd-mm-yyyy)
 - [Substring in hive](https://stackoverflow.com/questions/33113325/how-to-do-select-based-on-a-substring-of-a-particular-column-in-hiveql-and-sql)
 - [Percentile without using partition by](https://stackoverflow.com/questions/49368902/sql-server-percentile-disc-for-column-median-without-partitioning)
 - [Get date difference in minutes using Hive](https://stackoverflow.com/questions/33593080/how-to-get-date-difference-in-minutes-using-hive)
