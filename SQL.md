@@ -1,3 +1,4 @@
+- [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF#LanguageManualUDF-StringFunctions)
 - [Cast string to date](https://stackoverflow.com/questions/32475465/hive-cast-string-to-date-dd-mm-yyyy)
 - [Substring in hive](https://stackoverflow.com/questions/33113325/how-to-do-select-based-on-a-substring-of-a-particular-column-in-hiveql-and-sql)
 - [Percentile without using partition by](https://stackoverflow.com/questions/49368902/sql-server-percentile-disc-for-column-median-without-partitioning)
