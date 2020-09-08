@@ -1,4 +1,5 @@
 Need based links
+- [Pivot table](https://pbpython.com/pandas-pivot-table-explained.html)
 - [Round datetime column to nearest quarter hour?](https://stackoverflow.com/questions/32344533/how-do-i-round-datetime-column-to-nearest-quarter-hour) | [How to round the minute of a datetime object python](https://stackoverflow.com/questions/3463930/how-to-round-the-minute-of-a-datetime-object-python)
 - [Combine Date and Time columns using python pandas](https://stackoverflow.com/questions/17978092/combine-date-and-time-columns-using-python-pandas)
 ```python
