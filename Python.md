@@ -1,4 +1,5 @@
 Need based links
+- [Transpose a dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.transpose.html)
 - [Pandas settingwithcopywarning prompt](https://www.dataquest.io/blog/settingwithcopywarning/)
 ```python
 pd.set_option('mode.chained_assignment', None)
