@@ -1,0 +1,1 @@
+- [Rank](https://exceljet.net/excel-functions/excel-rank-function)
