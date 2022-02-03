@@ -1,4 +1,5 @@
 Need based links
+- [Pivot dyplyr](https://tidyr.tidyverse.org/articles/pivot.html) | [Pivot_wider](https://tidyr.tidyverse.org/reference/pivot_wider.html)
 - [R dplyr: Drop multiple columns](https://stackoverflow.com/questions/35839408/r-dplyr-drop-multiple-columns) | [Adding missing grouping variables” message in dplyr in R](https://stackoverflow.com/questions/38511743/adding-missing-grouping-variables-message-in-dplyr-in-r)
 - [Calculate cumulative sum within a partition | cumsum partition by](https://stackoverflow.com/questions/16850207/calculate-cumulative-sum-within-each-id-group)
 - [How do I use functions in one R package masked by another package?](https://stackoverflow.com/questions/9337716/how-do-i-use-functions-in-one-r-package-masked-by-another-package)
