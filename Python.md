@@ -1,4 +1,5 @@
 Need based links
+- [preceding | take moving average](https://learnsql.com/blog/moving-average-in-sql/)
 - [Transpose a dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.transpose.html)
 - [Pandas settingwithcopywarning prompt](https://www.dataquest.io/blog/settingwithcopywarning/)
 ```python
