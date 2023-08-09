@@ -1,3 +1,4 @@
+- [Recursive calculations](https://stackoverflow.com/questions/48797257/sql-server-recursively-calculated-column)
 - [Random sampling in hive](https://hadoopsters.com/2018/02/04/how-random-sampling-in-hive-works-and-how-to-use-it/)
 - [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF#LanguageManualUDF-StringFunctions)
 - [Cast string to date](https://stackoverflow.com/questions/32475465/hive-cast-string-to-date-dd-mm-yyyy)
