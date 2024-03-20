@@ -1,3 +1,4 @@
+- [Ignoring NULL values in window functions](https://stackoverflow.com/questions/3676875/setting-rank-to-null-using-rank-over-in-sql)
 - [Recursive calculations](https://stackoverflow.com/questions/48797257/sql-server-recursively-calculated-column)
 - [Random sampling in hive](https://hadoopsters.com/2018/02/04/how-random-sampling-in-hive-works-and-how-to-use-it/)
 - [Hive Operators and User-Defined Functions (UDFs)](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF#LanguageManualUDF-StringFunctions)
